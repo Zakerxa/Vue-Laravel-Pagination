@@ -11,6 +11,7 @@ Hi Everyone,My name is **Zin Min Htet** and here is my [**Facebook account**](ht
 
 **Watch Now [Live Demo](https://vue-laravel-pagination.vercel.app/).**
 
+
 ## Installation
 
 ```NPM
@@ -68,7 +69,6 @@ export default {
     },
     methods:{
       vuePaginate(e){
-        this.currentPage = e;
         this.startInit(e[0]+e[1]);
       },
       startInit(e){
@@ -223,7 +223,6 @@ this.style: {
       },
       methods: {
         vuePaginate(e){
-          this.currentPage = e;
           this.startInit(e[0]+e[1]);
         },
         startInit(e){
