@@ -9,7 +9,7 @@ Hi Everyone,My name is **Zin Min Htet** and here is my [**Facebook account**](ht
 
 <img src="https://raw.githubusercontent.com/Zakerxa/Vue-Laravel-Pagination/master/src/assets/preview.png" alt="preview" width="200" style="max-width:200px;"/>
 
-**Watch Now [Live Demo](https://zakerxa.github.io/Vue-Laravel-Pagination/).**
+**Watch Now [Live Demo](https://vue-laravel-pagination.vercel.app/).**
 
 ## Installation
 
@@ -57,7 +57,7 @@ npm i @zakerxa/vue-laravel-pagination
 export default {
     data(){
       return {
-          endpoint    : 'http://developers.zakerxa.com/api/paginations?page=',
+          endpoint    : 'https://developers.zakerxa.com/api/paginations?page=',
           perPage     : [2],/* default path => '&per_page=' (Or) change [2,'&UrPath='] */
           paginations : {},
           userData    : []

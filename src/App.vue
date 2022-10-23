@@ -45,7 +45,7 @@
     name: 'ServeDev',
     data () {
         return {
-          endpoint    : 'http://developers.zakerxa.com/api/paginations?page=',
+          endpoint    : 'https://developers.zakerxa.com/api/paginations?page=',
           perPage     : [2,'&per_page=' /* default path => '&per_page=' (Or) change [2,'&UrPath='] */],
           userData    : [],
           paginations : {}
