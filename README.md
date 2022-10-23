@@ -9,8 +9,7 @@ Hi Everyone,My name is **Zin Min Htet** and here is my [**Facebook account**](ht
 
 <img src="https://raw.githubusercontent.com/Zakerxa/Vue-Laravel-Pagination/master/src/assets/preview.png" alt="preview" width="200" style="max-width:200px;"/>
 
-<!-- **Watch Now [Live Demo](https://vue-laravel-pagination-upload.vercel.app).** -->
-
+**Watch Now [Live Demo](https://zakerxa.github.io/Vue-Laravel-Pagination/).**
 
 ## Installation
 
