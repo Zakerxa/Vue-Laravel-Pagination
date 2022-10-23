@@ -7,7 +7,7 @@ Hi Everyone,My name is **Zin Min Htet** and here is my [**Facebook account**](ht
 
 # Here is Live Demo -->
 
-<img src="https://raw.githubusercontent.com/Zakerxa/Vue-Laravel-Pagination/master/src/assets/preview.jpg" alt="preview" width="200" style="max-width:200px;"/>
+<img src="https://raw.githubusercontent.com/Zakerxa/Vue-Laravel-Pagination/master/src/assets/preview.png" alt="preview" width="200" style="max-width:200px;"/>
 
 <!-- **Watch Now [Live Demo](https://vue-laravel-pagination-upload.vercel.app).** -->
 
