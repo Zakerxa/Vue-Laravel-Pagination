@@ -155,12 +155,14 @@ Or
 :style="style"
 
 this.style: {
-  fontFamily : 'sans-serif',
-  background : '#fff',
-  active : 'rgb(214, 247, 255)',
   color : 'rgb(106, 106, 114)',
+  activeColor : '#333',
+  background : '#fff',
+  activeBackground : 'rgb(214, 247, 255)',
+  fontFamily : 'sans-serif',
   hover: 'rgb(214, 247, 255) 1px -1px 5px inset',
-  border: '0.5px solid rgb(214, 237, 251)',
+  border: '0.5px solid rgb(209, 237, 251)',
+  borderBar : '1px solid rgb(209, 237, 251)',
   next : '&raquo;',
   prev : '&laquo;'
 },
